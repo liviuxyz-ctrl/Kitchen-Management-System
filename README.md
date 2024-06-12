@@ -4,10 +4,6 @@
 
 The Kitchen Management System is a Java-based simulation designed to demonstrate the capabilities of multi-agent systems within a kitchen environment. Utilizing the Java Agent DEvelopment Framework (JADE), this application simulates various kitchen operations such as order processing, delivery, inventory management, and customer interactions through a series of interconnected agents.
 
-## Images 
-
-![image](https://github.com/liviuxyz-ctrl/Kitchen-Management-System/assets/70070368/feec7fdb-20d8-4514-a7d1-421f0d7f1e89)
-
 
 
 ## Features
@@ -16,6 +12,10 @@ The Kitchen Management System is a Java-based simulation designed to demonstrate
 - **Order Processing and Delivery**: Simulates the receipt, preparation, and delivery of orders.
 - **Interactive GUI**: Provides a graphical user interface for real-time monitoring and management of kitchen operations.
 - **Logging and Monitoring**: Includes comprehensive logging of actions and a monitoring agent that oversees system operations.
+
+## Gui Example
+
+![image](https://github.com/liviuxyz-ctrl/Kitchen-Management-System/assets/70070368/feec7fdb-20d8-4514-a7d1-421f0d7f1e89)
 
 ## Prerequisites
 - Java JDK 11 or higher
