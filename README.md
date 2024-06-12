@@ -44,17 +44,19 @@ The system integrates multiple Java classes and agents, each handling specific a
 ### Main Entry
 - **Main.java**: Initializes and starts all agents and the GUI component, setting the operational stage for the system.
 
-### Agents
+### Agents 
 - **ClientAgent**: Manages order processing including time calculations and inventory deductions.
 - **ConsoleOutputStream**: Redirects console output to the GUI for real-time monitoring.
 - **DeliveryAgent**: Simulates the delivery process of orders.
 - **InventoryAgent**: Monitors and manages inventory levels, and triggers restocking.
-- **KitchenManagementGUI**: Facilitates interaction with the system through a graphical user interface.
 - **MonitorAgent**: Provides system status updates and monitoring.
 - **OrderGeneratorAgent**: Randomly generates new orders or based on specified criteria.
 - **OrderProcessorAgent**: Processes incoming orders and coordinates with inventory and delivery.
 - **ReorderAgent**: Automates reordering of low-stock items.
 - **UserInterfaceAgent**: Bridges the GUI with the backend agents for command processing and data retrieval.
+- **ConsoleOutputStream**: Redirects console output to the GUI for real-time monitoring.
+- **KitchenManagementGUI**: Facilitates interaction with the system through a graphical user interface.
+
 
 ### Communication
 - Agents communicate using ACL messages to manage tasks and share information efficiently.
