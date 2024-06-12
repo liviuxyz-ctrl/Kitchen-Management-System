@@ -1,0 +1,42 @@
+### IntelliJ IDEA ###
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+
+### Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+bin/
+!**/src/main/**/bin/
+!**/src/test/**/bin/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
+/MTPs-Main-Container.txt
+/local_history1.patch
+/local_history.patch
+/JadeHomework1.iml
+/APDescription.txt
+/src/work_gui4_WORKS.zip
+/src/work_gui3_WORKS.zip
+/src/work_gui2.zip
+/src/work_gui1.zip
+/src/work.zip
+/JADE-bin-4.6.0/
+/out/
+/.idea/
