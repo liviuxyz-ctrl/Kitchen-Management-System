@@ -17,6 +17,12 @@ The Kitchen Management System is a Java-based simulation designed to demonstrate
 
 ![image](https://github.com/liviuxyz-ctrl/Kitchen-Management-System/assets/70070368/feec7fdb-20d8-4514-a7d1-421f0d7f1e89)
 
+![image](https://github.com/liviuxyz-ctrl/Kitchen-Management-System/assets/70070368/cb6f784a-b309-44d7-b866-d57791d38ad4)
+
+![image](https://github.com/liviuxyz-ctrl/Kitchen-Management-System/assets/70070368/cf392e72-cbcd-475e-8937-e26abf80b549)
+
+
+
 ## Prerequisites
 - Java JDK 11 or higher
 - Eclipse, IntelliJ IDEA, or any compatible Java IDE
